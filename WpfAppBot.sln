@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppBot", "WpfAppBot\WpfAppBot.csproj", "{E4606D99-E1DB-4B1B-928E-9AC56CC561AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4606D99-E1DB-4B1B-928E-9AC56CC561AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4606D99-E1DB-4B1B-928E-9AC56CC561AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4606D99-E1DB-4B1B-928E-9AC56CC561AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4606D99-E1DB-4B1B-928E-9AC56CC561AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA104485-02D6-450A-A7E7-AEEC2BE3F8FA}
+	EndGlobalSection
+EndGlobal
